@@ -1,0 +1,83 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="391" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="3" filename="BSP/Setup/IP_Config_IP_over_USB.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="220" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="3" filename="OS-Related/IP_OS_embOS.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="163" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="3" filename="Application/IP_WebserverSample.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="501" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="3" filename="Application/IP_WebserverSample.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="3217" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="3" filename="Application/Webserver_DynContent.c" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="STM32F746-DISCO_Eval" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="STM32F746-DISCO_Eval" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="STM32F746-DISCO_Eval" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="STM32F746-DISCO_Eval" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval;Application"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval;Application;FS_RO"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval;Application;IP"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval;BSP"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval;BSP;Setup"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval;OS-Related"/>
+  <ProjectSessionItem path="STM32F746-DISCO_Eval;STM32F746-DISCO_Eval;Setup"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="STM32F746-DISCO_Eval" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="STM32F746-DISCO_Eval" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="STM32F746-DISCO_Eval" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="STM32F746-DISCO_Eval" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="27" y="83" useTextEdit="1" path="Application/Main.c" left="0" selected="1" top="86" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="38" y="289" useTextEdit="1" openedFrom="C:/WorkSpace/Documentation/Stm32U5/Segger/Stm32F7508/Trial_STM32F746_DISCO_IP_over_USB_Webserver_190404/Trial_STM32F746_DISCO_IP_over_USB_Webserver/Application/Main.c" path="Application/IP_WebserverSample.c" left="0" top="264" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="219" useTextEdit="1" path="OS-Related/IP_OS_embOS.c" left="0" top="199" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="42" y="3136" useTextEdit="1" openedFrom="C:/WorkSpace/Documentation/Stm32U5/Segger/Stm32F7508/Trial_STM32F746_DISCO_IP_over_USB_Webserver_190404/Trial_STM32F746_DISCO_IP_over_USB_Webserver/Application/IP_WebserverSample.c" path="Application/Webserver_DynContent.c" left="0" top="3124" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="390" useTextEdit="1" path="BSP/Setup/IP_Config_IP_over_USB.c" left="0" top="356" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="227" useTextEdit="1" path="BSP/Setup/RTOSInit_STM32F7xx.c" left="0" top="202" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="3536" useTextEdit="1" openedFrom="C:/WorkSpace/Documentation/Stm32U5/Segger/Stm32F7508/Trial_STM32F746_DISCO_IP_over_USB_Webserver_190404/Trial_STM32F746_DISCO_IP_over_USB_Webserver/Application/IP_WebserverSample.c" path="OS/RTOS.h" left="0" top="3514" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="466" useTextEdit="1" path="Application/FS_RO/IP_FS_ReadOnly.c" left="0" top="459" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="309" useTextEdit="1" openedFrom="C:/WorkSpace/Documentation/Stm32U5/Segger/Stm32F7508/Trial_STM32F746_DISCO_IP_over_USB_Webserver_190404/Trial_STM32F746_DISCO_IP_over_USB_Webserver/Application/IP_WebserverSample.c" path="IP/IP_Socket.h" left="0" top="297" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="35" useTextEdit="1" path="Application/FS_RO/Generated/FormGET.c" left="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="Application/FS_RO/Generated/FS_Det.c" left="0" top="0" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="STM32F746-DISCO_Eval" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="IP_over_USB_Webserver_Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>

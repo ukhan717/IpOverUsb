@@ -1,0 +1,6 @@
+speed 4000
+si SWD
+loadfile STM32F746-DISCO_Eval.srec
+r
+g
+q
